@@ -1,1 +1,1 @@
-# grokking-sd3
+# Grokking Stable Diffusion 3
