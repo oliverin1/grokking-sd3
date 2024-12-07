@@ -1,6 +1,6 @@
 # Grokking Stable Diffusion 3
 
-This repository contains code for running inference with Stable Diffusion 3 medium without using the StableDiffusion3Pipeline by separating the stages of prompt embedding, latent generation, and decoding from each other. It is meant to prioritize being transparent and easy to experiment on, as calling the original pipeline puts a lot of control out of reach.
+This repository contains code for running inference with Stable Diffusion 3 medium without using the StableDiffusion3Pipeline by separating the stages of prompt embedding, latent generation, and decoding from each other. It is meant to prioritize being transparent and easy to experiment on, as calling the original pipeline puts a lot of control out of reach. All code is adapted from the StableDiffusion3Pipeline.
 
 ## Installation
 Clone the repo and install requirements in a virtualenv
